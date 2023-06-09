@@ -119,3 +119,21 @@ footer{
     margin-top: 48vh;
     color: #fff;
 }
+
+.footer a{
+    color: greenyellow;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 940px){
+
+    button{
+        margin-left: -25px;
+        padding: 12px 35px;
+    }
+
+    footer{
+        margin-top: 40vh;
+        color: #fff;
+    }
+}
